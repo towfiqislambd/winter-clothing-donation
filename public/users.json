@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Books for Bright Minds",
+        "image": "https://i.ibb.co.com/pQRf7dM/i1.jpg",
+        "description": "Donate books to underprivileged children to promote education in Cumilla.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456788",
+        "division": "Cumilla"
+    },
+    {
+        "id": 2,
+        "title": "Meals for Hope",
+        "image": "https://i.ibb.co.com/FYmCypp/p3.jpg",
+        "description": "Support our food distribution drive for struggling families in Barishal.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456787",
+        "division": "Barishal"
+    },
+    {
+        "id": 3,
+        "title": "Safe Drinking Water Initiative",
+        "image": "https://i.ibb.co.com/hcsKRwQ/i2.jpg",
+        "description": "Help us install water filtration systems in rural areas of Sylhet.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456786",
+        "division": "Sylhet"
+    },
+    {
+        "id": 4,
+        "title": "Shelter for All",
+        "image": "https://i.ibb.co.com/K5Nq9hr/i3.jpg",
+        "description": "Contribute to building homes for homeless families in Cumilla.",
+        "status": "Planned",
+        "contactInfo": "+880123456785",
+        "division": "Cumilla"
+    },
+    {
+        "id": 5,
+        "title": "Medical Aid for Barishal",
+        "image": "https://i.ibb.co.com/zRTFNPK/p5.jpg",
+        "description": "Provide medical supplies and health check-ups for rural communities.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456784",
+        "division": "Barishal"
+    },
+    {
+        "id": 6,
+        "title": "Clean Streets Initiative",
+        "image": "https://i.ibb.co.com/3mGg6Vp/p4.jpg",
+        "description": "Join our efforts to keep the streets of Sylhet clean and green.",
+        "status": "Completed",
+        "contactInfo": "+880123456783",
+        "division": "Sylhet"
+    },
+    {
+        "id": 7,
+        "title": "Empower Women in Cumilla",
+        "image": "https://i.ibb.co.com/2nhsnpq/p7.jpg",
+        "description": "Support skill development programs for women to achieve self-sufficiency.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456782",
+        "division": "Cumilla"
+    },
+    {
+        "id": 8,
+        "title": "Cyclone Relief for Barishal",
+        "image": "https://i.ibb.co.com/kB979b3/p6.jpg",
+        "description": "Assist us in providing relief and rehabilitation for cyclone-affected families.",
+        "status": "Planned",
+        "contactInfo": "+880123456781",
+        "division": "Barishal"
+    },
+    {
+        "id": 9,
+        "title": "Community Sports Drive",
+        "image": "https://i.ibb.co.com/fvdDtnr/p8.jpg",
+        "description": "Promote physical health by donating sports equipment to youth in Sylhet.",
+        "status": "Ongoing",
+        "contactInfo": "+880123456780",
+        "division": "Sylhet"
+    }
+]
